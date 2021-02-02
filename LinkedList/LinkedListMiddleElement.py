@@ -14,3 +14,5 @@ class Solution:
             slow = slow.next
 
         return slow
+
+# we can return only value as well depending on the question
